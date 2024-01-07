@@ -7,9 +7,9 @@ env:
 
 on:
   push:
-    branches: [ "devops1" ]
+    branches: [ "devops2" ]
   pull_request:
-    branches: [ "devops1" ]
+    branches: [ "devops2" ]
 
 jobs:
 
